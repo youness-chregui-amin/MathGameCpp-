@@ -1,10 +1,10 @@
-# MathGameCpp 🎮🧮
+# MathGameCpp 
 
 *MathGameCpp* is a dynamic math quiz game written in C++. The *computer generates random arithmetic questions* for you to solve. Track your correct and wrong answers while improving your mental math skills!
 
 ---
 
-## Features ✨
+## Features 
 
 - Randomly generated math questions by the computer  
 - Four types of operations: *Addition (+), Subtraction (-), Multiplication (x), Division (/)*  
