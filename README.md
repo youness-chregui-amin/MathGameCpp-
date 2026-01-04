@@ -26,5 +26,5 @@
 
 ## Additional Information ℹ
 
-This smal project was created by *me, inspired by the **Algorithms and Problem Solving course* by *Dr. Mohammed Abu-Hadhoud - ProgrammingAdvices*.  
+This smal project was created by *me, inspired by the **Algorithms and Problem Solving course* by *ProgrammingAdvices*.  
 It’s a fun and educational project to practice C++ programming and arithmetic skills simultaneously.
